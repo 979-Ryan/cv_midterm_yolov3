@@ -24,4 +24,5 @@ https://github.com/bubbliiiing/yolo3-tf2
 
 # 五、 模型链接
 最佳模型：链接: https://pan.baidu.com/s/1OVFZDv3xGxlGS3RMM8Xr9g?pwd=ju5s 提取码: ju5s
+
 预训练权重：链接: https://pan.baidu.com/s/1ZXa0BvERDsObgR1nn10J5g?pwd=3gug 提取码: 3gug
